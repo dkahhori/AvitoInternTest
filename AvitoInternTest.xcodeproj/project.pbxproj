@@ -77,7 +77,7 @@
 				A9203256290A8E0A0053D257 /* AppDelegate.swift */,
 				A9203258290A8E0A0053D257 /* SceneDelegate.swift */,
 				A900ECB22910364400845FE7 /* Networking */,
-				A9203275290BE2E60053D257 /* DataModel */,
+				A9203275290BE2E60053D257 /* Models */,
 				A920326F290A91990053D257 /* Controller */,
 				A9203270290A91C10053D257 /* Cell */,
 				A920325C290A8E0A0053D257 /* Main.storyboard */,
@@ -105,12 +105,12 @@
 			path = Cell;
 			sourceTree = "<group>";
 		};
-		A9203275290BE2E60053D257 /* DataModel */ = {
+		A9203275290BE2E60053D257 /* Models */ = {
 			isa = PBXGroup;
 			children = (
 				A920326D290A909C0053D257 /* Organization.swift */,
 			);
-			path = DataModel;
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
